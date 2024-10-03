@@ -28,6 +28,7 @@ int ch_netw_count;
 
 unsigned long del;
 
+
 void setup() {
     tft.init();
     tft.setRotation(1);
